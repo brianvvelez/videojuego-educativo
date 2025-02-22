@@ -1,25 +1,28 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
+MathQuest  es un videojuego educativo diseñado para enseñar, Matematicas
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
+La historia se desarrolla en En Númeria, un mundo lleno de misterios, desafíos y
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
 juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
-El protagonista de esta aventura es [gandalf], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es pablo, un es un  sabio de larga barba 
+y túnica azul, con una personalidad amable y enigmática. 
+Pablo es un Mentor que ha sido elegido para una misión
+única:recuperar los fragmentos del Cálculo. Con su bastón encantado que resuelve 
+ecuaciones,Pablo
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
-manera efectiva.
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
-juego fluida y atractiva.
+los jugadores conceptos clave de Matemáticas.
+El jugador podrá resolver problemas matemáticos interactivos,, para avanzar deberá
+superar minijuegos educativos y los desafíos incluirán operaciones básicas, geometría
+y problemas lógicos. Los estudiantes avanzarán mediante varios  sistema de experiencia 
+y niveles. Cada nivel representa un concepto matemático clave, y los jugadores recibirán 
+retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas 
+de mejora y celebrar sus logros. Los jugadores aprenderán  sumas y restas mediante 
+ejercicios visuales interactivos. Se reforzará multiplicación y división a través de
+retos cronometrados, y las evaluaciones se realizarán mediante
+ pruebas interactivas con retroalimentación instantánea, lo que permitirá a los 
+profesores y estudiantes medir el progreso de manera efectiva.
+El juego se desarrollará usando Unity y tendrá soporte para
+PC y dispositivos móviles. Además, se implementarán características como
+ tablas de clasificación, logros y un modo multijugador colaborativo para garantizar 
+una experiencia de juego fluida y atractiva.
